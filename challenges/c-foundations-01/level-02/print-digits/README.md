@@ -10,6 +10,6 @@ void print_digits(void)
 **Allowed functions:** write
 
 Solved as level 2 of the c-foundations-01 challenge.
-Validated 2 times. Earlier versions are in this file's git history.
+Validated 3 times. Earlier versions are in this file's git history.
 
 [Read the full exercise on Grademe](https://grademe.io/app/exercise/print-digits)

@@ -2,7 +2,7 @@
 
 void print_digits(void)
 {
-    char     c;
+    char    c;
 
     c = '0';
     while (c <= '9')
